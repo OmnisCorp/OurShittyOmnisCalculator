@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="G:/Coding Projects/Java Projects/Eclipse Java 11 - Workspace/OmnisCalculator/Builds/OmnisCalculatorV0.01"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/OmnisCalculator/OmnisBrowser.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=OmnisCalculator/src&lt;omnisCalculatorCode{Calculator.java[calculator" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=OmnisCalculator/src"/>
+    </selectedElements>
+</jardesc>
